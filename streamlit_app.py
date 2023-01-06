@@ -1,6 +1,7 @@
 
 import streamlit
-streamlit.title('Hello World, This is my first App')
-streamlit.header('Journey begins now')
-streamlit.text('Step 1')
-streamlit.text('Step 2')
+streamlit.title('Hello World, This is my Parents\' new healthy dinner')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
